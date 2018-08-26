@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+watching orange is the new black.
 Use the left arrow to go back!
